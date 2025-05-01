@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+.galamērķis {
+    background-color: #ffffff;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 5px;
+}
+
+table {
+    width: 100%;
+    background-color: #ffffff;
+    border-collapse: collapse;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid #aaa;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+.fakts {
+    font-style: italic;
+    color: #555;
+}
+
+ul {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 8px;
+    list-style: square;
+}
